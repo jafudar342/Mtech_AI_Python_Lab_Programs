@@ -1,0 +1,12 @@
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+summ = num1 + num2
+diff = num1 - num2
+prod = num1 * num2
+quot = num1 / num2
+remainder = num1 % num2
+print(f"Sum = {summ}")
+print(f"Difference = {diff}")
+print(f"Product = {prod}")
+print(f"Quotient = {quit()}")
+print(f"Remainder = {remainder}")
